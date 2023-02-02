@@ -177,7 +177,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   topBound: 30
-  lowerBound: -15
+  lowerBound: 30
 --- !u!65 &981534562447061884
 BoxCollider:
   m_ObjectHideFlags: 0
